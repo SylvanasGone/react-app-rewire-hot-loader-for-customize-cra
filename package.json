@@ -1,0 +1,23 @@
+
+{
+  "name": "react-app-rewire-hot-loader-for-customize-cra",
+  "version": "1.0.0",
+  "description": "Tiny wrapper of react-app-rewire-hot-loader",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SylvanasGone/react-app-rewire-hot-loader-for-customize-cra.git"
+  },
+  "keywords": ["webpack", "react-app-rewired"],
+  "author": "Sylvanas Gone",
+  "license": "MIT",
+  "homepage": "https://github.com/SylvanasGone/react-app-rewire-hot-loader-for-customize-cra",
+  "dependencies": {
+  },
+  "peerDependencies": {
+    "react-hot-loader": "^4.8.0"
+  }
+}
