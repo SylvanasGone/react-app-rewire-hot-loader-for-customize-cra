@@ -1,7 +1,7 @@
 
 {
   "name": "react-app-rewire-hot-loader-for-customize-cra",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tiny wrapper of react-app-rewire-hot-loader",
   "main": "index.js",
   "files": [
