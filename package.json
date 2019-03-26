@@ -16,8 +16,6 @@
   "license": "MIT",
   "homepage": "https://github.com/SylvanasGone/react-app-rewire-hot-loader-for-customize-cra",
   "dependencies": {
-  },
-  "peerDependencies": {
-    "react-hot-loader": "^4.8.0"
+    "react-hot-loader": "^4.6.3"
   }
 }
